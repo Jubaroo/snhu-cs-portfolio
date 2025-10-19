@@ -38,33 +38,6 @@ A C++ application that tracks and analyzes grocery item purchase frequencies wit
 
 ---
 
-### CS-300: Data Structures and Algorithms - Analysis and Design
-
-#### ABCU Course Planner
-[View Project Repository](https://github.com/Jubaroo/ABCU-Course-Planner)
-
-A command-line course management system for the ABCU Computer Science Department that efficiently organizes and retrieves course information.
-
-- **Description**: Implements a Binary Search Tree data structure to manage course information, including course numbers, titles, and prerequisites. Features include loading course data from files, displaying sorted course lists, searching for specific courses, and validating prerequisite relationships.
-- **Technologies**: C++
-- **Skills Demonstrated**: 
-  - Binary Search Tree implementation and traversal
-  - File I/O and data parsing
-  - Data validation and error handling
-  - Memory management
-  - Algorithm efficiency (O(log n) search time)
-  - Code documentation and organization
-
-**Key Features:**
-- Efficient course insertion and retrieval using BST
-- In-order traversal for alphabetically sorted course display
-- Two-pass validation system for data integrity
-- Prerequisite verification
-- Case-insensitive course search
-- Menu-driven user interface
-
----
-
 ### CS-230: Operating Platforms
 
 #### The Gaming Room - Software Design Document
@@ -102,6 +75,33 @@ A comprehensive software design document for expanding "Draw It or Lose It" from
 - Real-time performance with minimal latency
 - Robust security and data protection
 - Scalability for concurrent users and games
+
+---
+
+### CS-300: Data Structures and Algorithms - Analysis and Design
+
+#### ABCU Course Planner
+[View Project Repository](https://github.com/Jubaroo/ABCU-Course-Planner)
+
+A command-line course management system for the ABCU Computer Science Department that efficiently organizes and retrieves course information.
+
+- **Description**: Implements a Binary Search Tree data structure to manage course information, including course numbers, titles, and prerequisites. Features include loading course data from files, displaying sorted course lists, searching for specific courses, and validating prerequisite relationships.
+- **Technologies**: C++
+- **Skills Demonstrated**: 
+  - Binary Search Tree implementation and traversal
+  - File I/O and data parsing
+  - Data validation and error handling
+  - Memory management
+  - Algorithm efficiency (O(log n) search time)
+  - Code documentation and organization
+
+**Key Features:**
+- Efficient course insertion and retrieval using BST
+- In-order traversal for alphabetically sorted course display
+- Two-pass validation system for data integrity
+- Prerequisite verification
+- Case-insensitive course search
+- Menu-driven user interface
 
 ---
 
